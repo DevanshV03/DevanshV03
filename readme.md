@@ -43,3 +43,8 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=DevanshV03&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevanshV03/DevanshV03/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevanshV03/DevanshV03/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/DevanshV03/DevanshV03/output/github-snake.svg" />
+</picture>
