@@ -26,17 +26,10 @@
 <!-- Streak and Top Langs side by side -->
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=DevanshV03&theme=dark&hide_border=false" alt="GitHub Streak" height="200"/>
-  <img src="https://github.com/TransparentImages/1x1/blob/main/20px.png?raw=true" height="1" width="20" />
+  <img src="https://github.com/TransparentImages/1x1/blob/main/20px.png?raw=true" height="1" width="5" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshV03&theme=dark&hide_border=false&layout=compact" alt="Top Languages" height="200"/>
 </p>
 
-
-
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevanshV03&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</p>
 
 
 ### ✍️ Random Dev Quote
