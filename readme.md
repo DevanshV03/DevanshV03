@@ -1,3 +1,6 @@
+<img src="971.jpg" alt="Devansh Banner" width="100%" />
+
+
 # 💫 About Me:
 Hi! I see that you somehow landed on this page. Well, My name is Devansh and I am a passionate engineering student who likes to work on different things every once in a while from say a full stack project to an ML project or to designing a few UIs when I feel bored.<br><br>I am currently working on a fullstack project DonateaDish which is a food donation platform which stands unique in a way of how it functions. Head over to that repository to learn more about that.<br>I am currently learning Machine learning. Haha learning how to make machines learn.
 
