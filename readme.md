@@ -7,7 +7,7 @@
 ---
 
 🛠️ **Current Focus**  
-🔹 I'm working on a unique full-stack project called **DonateADish** — a food donation platform that reimagines the way people give and receive food. It's not just functional but also impactful! 🍽️😋 </br>
+🔹 I'm currently working on a browser of my own *Surface Browser*, It let's you S-u-r-f the internet.....Got bored of chrome 😅🌐 </br>
 🔹 Actively learning **Machine Learning** — yeah, teaching machines to think... kinda cool, right? 🤖📚
 
 ---
